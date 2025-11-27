@@ -1,3 +1,3 @@
 # CDasXORNet
 
-The code will be released soon.
+The code will be released in the future.
